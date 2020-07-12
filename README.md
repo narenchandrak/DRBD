@@ -1,4 +1,4 @@
-# DRBD + Pacemaker & Corosync MySQL Cluster Centos7
+# Automatic Failover DataBase(Active/Passive) Cluster With Pacemaker, Corosync and DRBD
 
 <img src="Resources\1.png" style="zoom:150%;" />
 
