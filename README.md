@@ -1,6 +1,6 @@
 # DRBD + Pacemaker & Corosync MySQL Cluster Centos7
 
-![DRBD With Pacemaker](Resources\1.png)
+<img src="Resources\1.png" style="zoom:150%;" />
 
 
 
